@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "E-Commerce API",
+        "title": "Job-Portal API",
         "version": "1.0.0",
         "description": "API for managing users, jobs, likes, and job applications"
     },
