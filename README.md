@@ -1,5 +1,10 @@
 ### Job API
 
+## ScreenShot
+
+![Alt text](https://github.com/gauravsingh906/Job-Portal-API/blob/master/Screenshot%20(55).png)
+
+
 ## Overview
 The Job API is a RESTful service that allows users to manage job postings, applications, and likes. It provides endpoints for user authentication, job management, and interaction between users and job postings.
 Features
